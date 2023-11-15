@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1689035635 source:c:\users\aomed\onedrive\Área de trabalho\!cadernos!\programação\c lang\estrutura de dados ii\exerc05\copaliberta\main.c
+	<stdio.h>
+	<stdlib.h>
+	"arvoreBin.h"
+
+1689001177 source:c:\users\aomed\onedrive\Área de trabalho\!cadernos!\programação\c lang\estrutura de dados ii\exerc05\copaliberta\dadostimes.c
+	<stdlib.h>
+	<stdio.h>
+	"dadosTimes.h"
+
+1689005670 c:\users\aomed\onedrive\Área de trabalho\!cadernos!\programação\c lang\estrutura de dados ii\exerc05\copaliberta\dadostimes.h
+	<stdlib.h>
+	<stdio.h>
+
+1689019184 source:c:\users\aomed\onedrive\Área de trabalho\!cadernos!\programação\c lang\estrutura de dados ii\exerc05\copaliberta\arvorebin.c
+	<stdlib.h>
+	<stdio.h>
+	"arvoreBin.h"
+
+1689019014 c:\users\aomed\onedrive\Área de trabalho\!cadernos!\programação\c lang\estrutura de dados ii\exerc05\copaliberta\arvorebin.h
+	<stdlib.h>
+	<stdio.h>
+
+1689019184 source:c:\users\aomed\onedrive\Área de trabalho\nova pasta\!cadernos!\programação\c lang\estrutura de dados ii\exerc05\copaliberta\arvorebin.c
+	<stdlib.h>
+	<stdio.h>
+	"arvoreBin.h"
+
+1689019014 c:\users\aomed\onedrive\Área de trabalho\nova pasta\!cadernos!\programação\c lang\estrutura de dados ii\exerc05\copaliberta\arvorebin.h
+	<stdlib.h>
+	<stdio.h>
+
+1689035635 source:c:\users\aomed\onedrive\Área de trabalho\nova pasta\!cadernos!\programação\c lang\estrutura de dados ii\exerc05\copaliberta\main.c
+	<stdio.h>
+	<stdlib.h>
+	"arvoreBin.h"
+
